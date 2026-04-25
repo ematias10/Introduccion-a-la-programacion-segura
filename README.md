@@ -22,8 +22,9 @@ Implementación de flujos de control y validación de seguridad.
 - **Práctica**: Sistemas de autenticación VPN y control de acceso.
 
 ### [3. Ciclo While](3.%20Ciclo%20While/)
-*(En desarrollo)* Estructuras de repetición aplicadas a la automatización de procesos de seguridad.
-
+Estructuras de repetición aplicadas a la automatización de procesos de seguridad.
+- **Laboratorio**: Uso de ciclos While en distintos contextos, uso de bucles infinitos y condicionales.
+- **Práctica**: Sistema SOC con un menú en consola y con un bucle para que se muestre siempre, hasta ejecutar la salida.
 ## 🛠️ Requisitos
 
 - **Python 3.x**: Los scripts están diseñados para ejecutarse en versiones modernas de Python.
