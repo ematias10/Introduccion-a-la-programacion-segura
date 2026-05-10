@@ -25,6 +25,18 @@ Implementación de flujos de control y validación de seguridad.
 Estructuras de repetición aplicadas a la automatización de procesos de seguridad.
 - **Laboratorio**: Uso de ciclos While en distintos contextos, uso de bucles infinitos y condicionales.
 - **Práctica**: Sistema SOC con un menú en consola y con un bucle para que se muestre siempre, hasta ejecutar la salida.
+
+
+### [4. Ciclo For](4.%20Ciclo%20For/)
+Estructuras de repetición para iterar sobre secuencias y colecciones, aplicadas a procesamiento de datos y validación.
+- **Laboratorio**: Ejercicios sobre iteración con `for` aplicados a validación de entradas, procesamiento de listas y análisis de datos.
+	- Contenido: `Ejercicio1.py`, `Ejercicio2.py`, `Ejercicio3.py`
+
+### [5. Funciones](5.%20Funciones/)
+Modularización del código mediante funciones: definición, parámetros, retornos y buenas prácticas para evitar efectos colaterales.
+- **Laboratorio**: Ejercicios que muestran definición, llamada y uso de funciones, alcance de variables y buenas prácticas.
+	- Contenido: `Ejercicio1.py`, `Ejercicio2.py`, `Ejercicio3.py`, `Ejercicio4.py`
+
 ## 🛠️ Requisitos
 
 - **Python 3.x**: Los scripts están diseñados para ejecutarse en versiones modernas de Python.
