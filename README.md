@@ -37,6 +37,9 @@ Modularización del código mediante funciones: definición, parámetros, retorn
 - **Laboratorio**: Ejercicios que muestran definición, llamada y uso de funciones, alcance de variables y buenas prácticas.
 	- Contenido: `Ejercicio1.py`, `Ejercicio2.py`, `Ejercicio3.py`, `Ejercicio4.py`
 
+### [6. Colecciones](6.%20Colecciones/)
+
+
 ## 🛠️ Requisitos
 
 - **Python 3.x**: Los scripts están diseñados para ejecutarse en versiones modernas de Python.
